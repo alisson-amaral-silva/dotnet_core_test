@@ -1,0 +1,15 @@
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

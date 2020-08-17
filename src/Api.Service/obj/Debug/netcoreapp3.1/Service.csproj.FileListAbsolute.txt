@@ -1,0 +1,14 @@
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Estudos\DotNetCore\3_1\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
