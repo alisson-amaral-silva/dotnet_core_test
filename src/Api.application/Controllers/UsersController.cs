@@ -52,7 +52,14 @@ namespace Api.application.Controllers
 
             try
             {
-                return Ok(await _service.Get(id));
+                var result = Ok(await _service.Get(id));
+
+                if (result == null)
+                {
+                    return NotFound();
+                }
+
+                return Ok(result);
             }
             catch (Exception e)
             {
