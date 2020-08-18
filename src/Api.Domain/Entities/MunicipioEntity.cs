@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace Api.Domain.Entities
@@ -12,5 +13,6 @@ namespace Api.Domain.Entities
         [Required]
         public Guid UfId { get; set; }
         public UfEntity Uf { get; set; }
+        public IEnumerable<CepEntity> Ceps { get; set; }
     }
 }
